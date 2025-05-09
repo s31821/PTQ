@@ -6,7 +6,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTQ.Models", "src\PTQ.Model
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTQ.Repositories", "src\PTQ.Repositories\PTQ.Repositories.csproj", "{1D3E4FC5-B93C-4650-B61F-C43934710BEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTQ.Application", "src\PTQ.Application\PTQ.Application.csproj", "{13FFACD6-F78C-4279-BA7F-0DF25E2FD466}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTQ.Application", "src\PTQ.Application\PTQ.Application.csproj", "{780EBAA4-E2EC-4ACD-B911-6D0BE526A656}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,9 +26,9 @@ Global
 		{1D3E4FC5-B93C-4650-B61F-C43934710BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D3E4FC5-B93C-4650-B61F-C43934710BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D3E4FC5-B93C-4650-B61F-C43934710BEA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{13FFACD6-F78C-4279-BA7F-0DF25E2FD466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{13FFACD6-F78C-4279-BA7F-0DF25E2FD466}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{13FFACD6-F78C-4279-BA7F-0DF25E2FD466}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{13FFACD6-F78C-4279-BA7F-0DF25E2FD466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{780EBAA4-E2EC-4ACD-B911-6D0BE526A656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{780EBAA4-E2EC-4ACD-B911-6D0BE526A656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{780EBAA4-E2EC-4ACD-B911-6D0BE526A656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{780EBAA4-E2EC-4ACD-B911-6D0BE526A656}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

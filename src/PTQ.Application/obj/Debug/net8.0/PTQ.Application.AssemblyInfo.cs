@@ -10,11 +10,10 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("dotnet-PTQ.Application-e798fb21-271c-4ab4-943a-8356ee634921")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("PTQ.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52590657cc4b9c830540c4ff224b2f9ac797b53a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4926e90ae9a4beefd2dc5318ee55e4c31db424a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PTQ.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PTQ.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

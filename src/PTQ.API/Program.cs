@@ -1,5 +1,6 @@
 var builder = WebApplication.CreateBuilder(args);
 
+var connectionString = builder.Configuration.GetConnectionString("Database");
 // Add services to the container.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
@@ -36,7 +37,8 @@ app.UseHttpsRedirection();
 //     .WithName("GetWeatherForecast")
 //     .WithOpenApi();
 app.MapGet("/api/quizzes", () => "Hello World!");
-app.MapGet("/api/quizzes/{id:int}", () => "Hello World!");
+app.MapGet("/api/quizzes/{id:int}", (int id) => "Hello World!");
+app.MapPost("/api/quizzes/", () => "Hello World!");
 
 app.Run();
 
