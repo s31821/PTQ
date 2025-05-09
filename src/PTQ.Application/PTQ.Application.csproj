@@ -6,4 +6,9 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\PTQ.Models\PTQ.Models.csproj" />
+      <ProjectReference Include="..\PTQ.Repositories\PTQ.Repositories.csproj" />
+    </ItemGroup>
+
 </Project>

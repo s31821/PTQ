@@ -2,8 +2,8 @@
 
 public class Quiz
 {
-    int Id { get; set; }
-    string Name { get; set; }
-    int PotatoTeacherId { get; set; }
-    string PathFile { get; set; }
+    public int Id { get; set; }
+    public string Name { get; set; }
+    public int PotatoTeacherId { get; set; }
+    public string PathFile { get; set; }
 }
