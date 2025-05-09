@@ -1,12 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTQ.API", "PTQ.API\PTQ.API.csproj", "{9799D062-C9E7-4010-A13E-BFF59B911405}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTQ.API", "src\PTQ.API\PTQ.API.csproj", "{9799D062-C9E7-4010-A13E-BFF59B911405}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTQ.Models", "PTQ.Models\PTQ.Models.csproj", "{711E3E68-358C-49B3-9D95-FFC7DEDF3D2F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTQ.Models", "src\PTQ.Models\PTQ.Models.csproj", "{711E3E68-358C-49B3-9D95-FFC7DEDF3D2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTQ.Repositories", "PTQ.Repositories\PTQ.Repositories.csproj", "{1D3E4FC5-B93C-4650-B61F-C43934710BEA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTQ.Repositories", "src\PTQ.Repositories\PTQ.Repositories.csproj", "{1D3E4FC5-B93C-4650-B61F-C43934710BEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTQ.Application", "PTQ.Application\PTQ.Application.csproj", "{13FFACD6-F78C-4279-BA7F-0DF25E2FD466}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTQ.Application", "src\PTQ.Application\PTQ.Application.csproj", "{13FFACD6-F78C-4279-BA7F-0DF25E2FD466}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
